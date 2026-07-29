@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.993,=E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,=E:\Default vault\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Risovalka.dproj=E:\Default vault\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit5.pas=E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\LessonUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit5.pas=E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\UnitCanvasHelp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,=E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit5.dfm=E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\LessonUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit2.dfm=E:\Default vault\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,=E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,=E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit5.dfm=E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\UnitCanvasHelp.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,=E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,E:\Users\рабочий стол\Учеба\Курсовой проект по ОАиПР\Рисовалка\Unit2.pas=E:\Default vault\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
